@@ -126,7 +126,7 @@ Week 3 will focus on DOM manipulation, jQuery, JSON APIs, Ajax and Algorithm Scr
 * **Project 1** Peer Review due 9 PM
 
 ### Day 16 (Tue)
-1. **Project 2** - Hack Pacific [Simple Shopping Cart with jQuery](#) (8 hours)
+1. **Project 2** - Hack Pacific [Simple Shopping Cart with jQuery](./Curriculum/Project_2_simple_shopping_cart.md) (8 hours)
 
 **Meetings and Deadlines**
 * **Project 1** Reflection Summary due 9 PM
