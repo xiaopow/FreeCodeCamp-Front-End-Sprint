@@ -10,8 +10,9 @@ Week 1 will cover HTML5, CSS3 and Bootstrap. There will be 2 website cloning ass
 2. FreeCodeCamp [HTML5 and CSS Challenges](https://www.freecodecamp.com/challenges/say-hello-to-html-elements) (5 hours)
 3. Installing [Atom](https://atom.io/) text editor (10 mins)
 4. [Setting up your work environment](./Curriculum/Setting_up_your_work_environment.md) (20 mins)
-5. ShayHowe Learn to Code HTML & CSS [Lesson 1](http://learn.shayhowe.com/html-css/building-your-first-web-page/) (1.5 hours)
-6. ShayHowe Learn to Code HTML & CSS [Lesson 2](http://learn.shayhowe.com/html-css/getting-to-know-html/) (1.5 hours)
+5. Code School Explore and Master Chrome DevTools [Chapter 1](http://discover-devtools.codeschool.com/chapters/1?locale=en) (20 mins)
+6. ShayHowe Learn to Code HTML & CSS [Lesson 1](http://learn.shayhowe.com/html-css/building-your-first-web-page/) (1.5 hours)
+7. ShayHowe Learn to Code HTML & CSS [Lesson 2](http://learn.shayhowe.com/html-css/getting-to-know-html/) (1.5 hours)
 
 **Meetings and Deadlines**
 * Cohort meet and greet 6 PM (1 hour)
@@ -35,7 +36,7 @@ Week 1 will cover HTML5, CSS3 and Bootstrap. There will be 2 website cloning ass
 * Office Hours 6 PM - 8 PM (2 hours)
 
 ### Day 4 (Thu)
-1. *Assignment 1* - [Apple clone](#) (8 hours)
+1. *Assignment 1* - [Apple clone](./Curriculum/Apple_clone_assignment.md) (8 hours)
 
 **Meetings and Deadlines**
 * *Assignment 1* due 11:59 PM
