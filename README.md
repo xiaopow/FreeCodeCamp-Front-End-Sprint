@@ -49,7 +49,7 @@ Week 1 will cover HTML5, CSS3 and Bootstrap. There will be 2 website cloning ass
 * *Assignment 1* Peer Review due 9 PM
 
 ### Day 6 (Sat)
-1. *Assignment 2* - [Newsweek clone](#) (8 hours)
+1. *Assignment 2* - [Newsweek clone](./Curriculum/Assignment_2_newsweek_clone.md) (8 hours)
 
 **Meetings and Deadlines**
 * Office Hours 6 PM - 9 PM (3 hours)
