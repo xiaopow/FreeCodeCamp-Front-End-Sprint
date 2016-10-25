@@ -56,7 +56,7 @@ Week 1 will cover HTML5, CSS3 and Bootstrap. There will be 2 website cloning ass
 * *Assignment 1* Reflection Summary due 9 PM
 
 ### Day 7 (Sun)
-1. *Continue Assignment 2* - [Newsweek clone](#) (8 hours)
+1. *Continue Assignment 2* - [Newsweek clone](./Curriculum/Assignment_2_newsweek_clone.md) (8 hours)
 
 **Meetings and Deadlines**
 * *Assignment 2* due 11:59 PM
@@ -82,27 +82,24 @@ Week 2 will focus on JavaScript fundamentals. The materials will cover Values, T
 1. Eloquent JavaScript [Introduction](http://eloquentjavascript.net/00_intro.html) (30 mins)
 2. Eloquent JavaScript [Chapter 1: Values, Types, and Operators](http://eloquentjavascript.net/01_values.html) (3 hours)
 3. Eloquent JavaScript [Chapter 2: Program Structure](http://eloquentjavascript.net/02_program_structure.html) (3 hours)
-4. *Assignment 3* - JavaScript Basics (2 hours)
+4. *Assignment 3* - [JavaScript Basics](./Curriculum/Assignment_3_javascript_basics.md) (2 hours)
 
 **Meetings and Deadlines**
 * Office Hours 6 PM - 8 PM (2 hours)
 * *Assignment 3* due 11:59 PM
 
-[//]: # (assignment 3 is exercises of EJ chapter 2)
-
 ### Day 11 (Thu)
 1. Eloquent JavaScript [Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html) (3 hours)
 2. Eloquent JavaScript [Chapter 4: Data Structures: Objects and Arrays](http://eloquentjavascript.net/04_data.html) (3 hours)
-3. *Assignment 4* - JavaScript Intermediate (2 hours)
-
-**Meetings and Deadlines**
-* *Assignment 4* due 11:59 PM
-
-[//]: # (assignment 4 is exercises of EJ chapter 3 and 4)
+3. *Assignment 4* - [JavaScript Intermediate](./Curriculum/Assignment_4_javascript_intermediate.md) (2 hours)
 
 ### Day 12 (Fri)
 1. Eloquent JavaScript [Chapter 5: Higher-Order Functions](http://eloquentjavascript.net/05_higher_order.html) (4 hours)
 2. Eloquent JavaScript [Chapter 6: The Secret Life of Objects](http://eloquentjavascript.net/06_object.html) (4 hours)
+3. *Continue Assignment 4* - [JavaScript Intermediate](./Curriculum/Assignment_4_javascript_intermediate.md) (2 hours)
+
+**Meetings and Deadlines**
+* *Assignment 4* due 11:59 PM
 
 ### Day 13 (Sat)
 1. FreeCodeCamp Basic Front End Development Projects [Get Set for our Front End Development Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) (10 mins)
@@ -121,7 +118,7 @@ Week 2 will focus on JavaScript fundamentals. The materials will cover Values, T
 Week 3 will focus on DOM manipulation, jQuery, JSON APIs, Ajax and Algorithm Scripting. There will be 1 jQuery project and one JSON APIs, Ajax project.
 
 ### Day 15 (Mon)
-1. Hack Pacific [DOM Manipulation Lab: building a simple To Do List](#) (4 hours)
+1. Hack Pacific [DOM Manipulation Lab: building a simple To Do List](./Curriculum/Dom_manipulation_lab_to_do_list.md) (4 hours)
 2. FreeCodeCamp [jQuery Challenges](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work) (4 hours)
 
 **Meetings and Deadlines**
