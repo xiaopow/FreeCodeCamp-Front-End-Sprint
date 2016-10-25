@@ -2,7 +2,7 @@
 
 First go to [iTerm 2's official site](https://iterm2.com/) and download iTerm 2, while you are there, checkout their [features](https://iterm2.com/features.html) and why it would make your life more enjoyable as a programmer.
 
-After installing, open up a new iTerm 2 instance by pressing `Command + Space` to open up spotlight and type in `iTerm 2` and press `Enter`. You will see the following, which is the same as what you saw in terminal.
+After installing, open up a new iTerm 2 instance by pressing <kbd>Command + Space</kbd> to open up spotlight and type in `iTerm 2` and press <kbd>Enter</kbd>. You will see the following, which is the same as what you saw in terminal.
 
 ![iTerm 2](images/iterm_1.png)
 

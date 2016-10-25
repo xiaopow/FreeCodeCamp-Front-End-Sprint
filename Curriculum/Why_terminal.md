@@ -8,7 +8,7 @@ We use an application called Terminal, also known as shells, to access the CLI, 
 
 The following shortcuts and commands are for Mac OS.
 
-To start a Terminal, open `Applications > Utilities > Terminal` or use the shortcut <kbd>Command + Space</kbd> to bring up Spotlight and type in "Terminal" and press `Enter`.
+To start a Terminal, open `Applications > Utilities > Terminal` or use the shortcut <kbd>Command + Space</kbd> to bring up Spotlight and type in "Terminal" and press <kbd>Enter</kbd>.
 
 ![terminal](images/terminal_1.png)
 
@@ -18,7 +18,7 @@ Before we move on, lets look at what the GUI equivalent of this CLI state would 
 
 ![home folder](images/home_folder.png)
 
-Try this, in your terminal type `ls` and press `Enter`, terminal will list out the equivalent in the form of text. You have just used your first command `ls` which means **List**.
+Try this, in your terminal type `ls` and press <kbd>Enter</kbd>, terminal will list out the equivalent in the form of text. You have just used your first command `ls` which means **List**.
 
 ![home folder in Terminal](images/terminal_2.png)
 

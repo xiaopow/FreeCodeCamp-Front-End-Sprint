@@ -1,4 +1,6 @@
-# FreeCodeCamp Front End 4-Week Sprint
+![FreeCodeCamp Front-end Sprint](./Curriculum/images/Fcc_front_end_sprint.jpeg)
+
+# FreeCodeCamp Front-end Sprint
 
 In 4 weeks, you will learn HTML, CSS, Bootstrap, JavaScript, jQuery, Git and build multiple front-end projects. Your cohort will meet via live video chat three times a week in sessions called Office Hours. Office Hours are compulsory and will be hosted by our Coaches. During Office Hours, our Mentors will go through key concepts, check on everyone's progress and answer any question you may have. In addition, there are chat rooms where you can meet your classmates and our Coaches and a Q&A platform where you can get help on the curriculum.
 
@@ -229,7 +231,7 @@ Week 4 will cover Terminal, Git, GitHub, Coding Interviews and Job Hunt Preparat
 * **Project 5** Peer Review due 9 PM
 
 ### Day 28 (Sun)
-1. [Job Hunt Preparations](#) (3 hours)
+1. [Job Hunt Preparations](#) (30 mins)
 
 **Meetings and Deadlines**
 * **Project 5** Reflection Summary due 5 PM
