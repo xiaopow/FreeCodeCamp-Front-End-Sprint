@@ -186,7 +186,7 @@ Week 3 will focus on DOM manipulation, jQuery, JSON APIs, Ajax and Algorithm Scr
 Week 4 will cover Terminal, Git, GitHub, Coding Interviews and Job Hunt Preparations. There will be 2 front end projects.
 
 ### Day 22 (Mon)
-1. Hack Pacific [Why Terminal](#), [Install iTerm2](#), [Terminal Basic Commands](#) (3 hours)
+1. Hack Pacific [Why Terminal](./Curriculum/Why_terminal.md), [Install iTerm2](./Curriculum/Install_iterm2.md), [Terminal Basic Commands](./Curriculum/Terminal_basic_commands.md) (3 hours)
 2. [Git Immersion](http://gitimmersion.com/index.html) Download the normal version of Git, not the Graphical version. **Note!** You don't need to install Ruby to go through this tutorial (5 hours)
 3. Hack Pacific [GitHub Basics](#) (30 mins)
 
@@ -225,7 +225,7 @@ Week 4 will cover Terminal, Git, GitHub, Coding Interviews and Job Hunt Preparat
 4. Cracking the Coding Interview [Question 4](#) (2 hours)
 
 **Meetings and Deadlines**
-* Office Hours 6 PM - 8 PM (2 hours)
+* Office Hours 6 PM - 9 PM (3 hours)
 * **Project 5** Peer Review due 9 PM
 
 ### Day 28 (Sun)
