@@ -36,14 +36,14 @@ Week 1 will cover HTML5, CSS3 and Bootstrap. There will be 2 website cloning ass
 * Office Hours 6 PM - 8 PM (2 hours)
 
 ### Day 4 (Thu)
-1. *Assignment 1* - [Apple clone](./Curriculum/Apple_clone_assignment.md) (8 hours)
+1. *Assignment 1* - [Apple clone](./Curriculum/Assignment_1_apple_clone.md) (8 hours)
 
 **Meetings and Deadlines**
 * *Assignment 1* due 11:59 PM
 
 ### Day 5 (Fri)
 1. FreeCodeCamp [Responsive Design with Bootstrap Challenges](https://www.freecodecamp.com/challenges/use-responsive-design-with-bootstrap-fluid-containers) (5 hours)
-2. Hack Pacific [Bootstrap Basics](#) (3 hours)
+2. Hack Pacific [Bootstrap Basics](./Curriculum/Bootstrap_basics.md) (3 hours)
 
 **Meetings and Deadlines**
 * *Assignment 1* Peer Review due 9 PM

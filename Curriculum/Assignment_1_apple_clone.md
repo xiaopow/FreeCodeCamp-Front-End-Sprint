@@ -1,11 +1,13 @@
 # Apple Clone
 
-For this assignment, we are going to clone the homepage of [apple.com](www.apple.com).
+For this assignment, we are going to clone the homepage of [apple.com](https://www.apple.com/).
 
 ![Apple Homepage](./images/apple.png)
 The version we are cloning has older images but the layout of the website is the same.
 
-Go to this [link](https://drive.google.com/file/d/0B2rX-oBIzCi1dnVFSXVIY1V3Nms/view?usp=sharing) to download the files for this project. We have prepared the HTML and CSS files for you with some basic settings and all the images needed are in the "images" folder.
+### Go to this [link](https://drive.google.com/file/d/0B2rX-oBIzCi1dnVFSXVIY1V3Nms/view?usp=sharing) to download the files for this project.
+
+We have prepared the HTML and CSS files for you with some basic settings and all the images needed are in the "images" folder.
 
 HTML
 ```
@@ -104,6 +106,11 @@ I have included the Myriad Pro Set font files, to use them, add the following to
   src: url("fonts/myriad-set-pro_ultralight.ttf") format("truetype");
   font-weight: 100;
 }
+
+/* use the custom font like any other font */
+body {
+  font-family: "Myriad Set Pro","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
 ```
 
-The files for the final cloned example can be downloaded [here](https://drive.google.com/file/d/0B2rX-oBIzCi1TU1tQXZDUXpVWVE/view?usp=sharing)
+The files for the final cloned example can be downloaded [here](https://drive.google.com/file/d/0B2rX-oBIzCi1TU1tQXZDUXpVWVE/view?usp=sharing).
