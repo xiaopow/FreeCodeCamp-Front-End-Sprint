@@ -74,7 +74,7 @@ Inside `.row`, you can add your columns of content. Columns are defined with the
 </div>
 ```
 
-<p data-height="182" data-theme-id="22009" data-slug-hash="adQPyb" data-default-tab="result" data-user="xiaopow" class='codepen'>See the Pen <a href='http://codepen.io/xiaopow/pen/adQPyb/'>3 equal columns</a> by xiao yang (<a href='http://codepen.io/xiaopow'>@xiaopow</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="200" data-theme-id="22009" data-slug-hash="adQPyb" data-default-tab="result" data-user="hackpacific" data-embed-version="2" class="codepen">See the Pen <a href="https://codepen.io/hackpacific/pen/adQPyb/">3 equal columns</a> by Hack Pacific (<a href="http://codepen.io/hackpacific">@hackpacific</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 If you want 4 equal columns, you can use 4 `.col-xs-3`.
